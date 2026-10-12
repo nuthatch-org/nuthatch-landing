@@ -421,7 +421,7 @@
     "description": "Lodestar 🌟 stay oriented",
     "language": "TypeScript",
     "stargazers_count": 5,
-    "pushed_at": "2026-10-09T18:29:07Z"
+    "pushed_at": "2026-10-12T09:56:37Z"
   },
   {
     "name": "machinex-peaq",
@@ -461,7 +461,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-11T11:00:26Z"
+    "pushed_at": "2026-10-12T12:37:46Z"
   },
   {
     "name": "nuthatch-desk",
@@ -485,7 +485,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-11T10:03:13Z"
+    "pushed_at": "2026-10-12T11:29:56Z"
   },
   {
     "name": "nuthatch-landing",
@@ -493,7 +493,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-10T11:11:02Z"
+    "pushed_at": "2026-10-11T11:24:27Z"
   },
   {
     "name": "nuthatch-tui-client",
@@ -542,6 +542,14 @@
     "language": "SQL",
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:30:39Z"
+  },
+  {
+    "name": "ox-ai-pro-nest",
+    "html_url": "https://github.com/nuthatch-org/ox-ai-pro-nest",
+    "description": "Limited event-history fallback for the OX AI PRO Polygon subgraph",
+    "language": "Python",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-12T10:54:38Z"
   },
   {
     "name": "pancakeswap-infinity-cl-bsc",
