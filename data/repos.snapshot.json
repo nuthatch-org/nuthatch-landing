@@ -61,7 +61,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-09T18:25:33Z"
+    "pushed_at": "2026-10-15T22:23:21Z"
   },
   {
     "name": "camp",
@@ -189,7 +189,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-15T09:34:17Z"
+    "pushed_at": "2026-10-16T09:48:44Z"
   },
   {
     "name": "nuthatch-desk",
@@ -213,7 +213,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-14T22:22:48Z"
+    "pushed_at": "2026-10-16T07:31:55Z"
   },
   {
     "name": "nuthatch-tui-client",
