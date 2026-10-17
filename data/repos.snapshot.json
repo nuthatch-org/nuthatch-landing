@@ -61,7 +61,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-15T22:23:21Z"
+    "pushed_at": "2026-10-16T22:24:37Z"
   },
   {
     "name": "camp",
@@ -94,6 +94,14 @@
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:26:08Z"
+  },
+  {
+    "name": "defi-pulse-nest",
+    "html_url": "https://github.com/nuthatch-org/defi-pulse-nest",
+    "description": "DeFi Pulse: stablecoin supply, Aave v3 liquidations, Lido flows and the ETH/USD feed, as a nuthatch nest",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-17T02:48:32Z"
   },
   {
     "name": "doudouchain-v2-nest",
@@ -189,7 +197,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-16T09:48:44Z"
+    "pushed_at": "2026-10-16T20:47:36Z"
   },
   {
     "name": "nuthatch-desk",
@@ -213,7 +221,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-16T07:31:55Z"
+    "pushed_at": "2026-10-17T03:05:13Z"
   },
   {
     "name": "nuthatch-tui-client",
