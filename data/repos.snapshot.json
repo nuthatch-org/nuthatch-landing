@@ -197,7 +197,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-19T07:51:05Z"
+    "pushed_at": "2026-10-20T07:37:36Z"
   },
   {
     "name": "nuthatch-desk",
