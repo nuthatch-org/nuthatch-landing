@@ -61,7 +61,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-22T21:52:57Z"
+    "pushed_at": "2026-10-26T10:05:13Z"
   },
   {
     "name": "burrmill-wasm",
@@ -232,6 +232,14 @@
     "pushed_at": "2026-10-09T18:28:02Z"
   },
   {
+    "name": "homebrew-tap",
+    "html_url": "https://github.com/nuthatch-org/homebrew-tap",
+    "description": "Homebrew formulae for nuthatch-org tools",
+    "language": "Ruby",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-26T08:16:34Z"
+  },
+  {
     "name": "horizon-nest",
     "html_url": "https://github.com/nuthatch-org/horizon-nest",
     "description": "A nuthatch nest: The Graph Protocol Horizon staking on Arbitrum One (operators, allocations, delegations, indexer totals). Mirrors PaulieB14's subgraph.",
@@ -285,7 +293,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-24T20:55:04Z"
+    "pushed_at": "2026-10-26T10:04:21Z"
   },
   {
     "name": "nuthatch-desk",
@@ -309,7 +317,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-23T19:46:48Z"
+    "pushed_at": "2026-10-26T08:26:27Z"
   },
   {
     "name": "nuthatch-x402",
@@ -398,6 +406,14 @@
     "language": "SQL",
     "stargazers_count": 0,
     "pushed_at": "2026-10-13T09:09:40Z"
+  },
+  {
+    "name": "redstart",
+    "html_url": "https://github.com/nuthatch-org/redstart",
+    "description": "the sexiest language for authoring The Graph subgraphs",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-26T10:52:59Z"
   },
   {
     "name": "request-payments",
