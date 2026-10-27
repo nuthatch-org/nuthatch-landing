@@ -61,7 +61,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-26T10:05:13Z"
+    "pushed_at": "2026-10-26T13:40:07Z"
   },
   {
     "name": "burrmill-wasm",
@@ -293,7 +293,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-26T10:04:21Z"
+    "pushed_at": "2026-10-27T10:14:28Z"
   },
   {
     "name": "nuthatch-desk",
