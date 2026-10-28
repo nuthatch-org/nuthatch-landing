@@ -61,7 +61,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-26T13:40:07Z"
+    "pushed_at": "2026-10-28T10:51:23Z"
   },
   {
     "name": "burrmill-wasm",
@@ -69,7 +69,7 @@
     "description": "Burrmill compiled to wasm32: nest queries in a browser tab",
     "language": "JavaScript",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-22T16:09:39Z"
+    "pushed_at": "2026-10-27T11:26:38Z"
   },
   {
     "name": "camp",
@@ -181,7 +181,7 @@
     "description": "Nuthatch nest: Graph Horizon allocations + curation signal on Arbitrum One. Finds subgraph deployments with signal staked and no indexer serving them.",
     "language": "SQL",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-13T09:08:53Z"
+    "pushed_at": "2026-10-28T10:53:59Z"
   },
   {
     "name": "graph-gns-nest",
@@ -293,7 +293,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-27T10:14:28Z"
+    "pushed_at": "2026-10-28T11:09:14Z"
   },
   {
     "name": "nuthatch-desk",
