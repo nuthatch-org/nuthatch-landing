@@ -181,7 +181,7 @@
     "description": "Nuthatch nest: Graph Horizon allocations + curation signal on Arbitrum One. Finds subgraph deployments with signal staked and no indexer serving them.",
     "language": "SQL",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-28T10:53:59Z"
+    "pushed_at": "2026-10-28T11:31:08Z"
   },
   {
     "name": "graph-gns-nest",
@@ -293,7 +293,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-28T11:09:14Z"
+    "pushed_at": "2026-10-29T11:33:01Z"
   },
   {
     "name": "nuthatch-desk",
