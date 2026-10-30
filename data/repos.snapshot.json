@@ -69,7 +69,7 @@
     "description": "Burrmill compiled to wasm32: nest queries in a browser tab",
     "language": "JavaScript",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-27T11:26:38Z"
+    "pushed_at": "2026-10-30T08:26:59Z"
   },
   {
     "name": "camp",
@@ -293,7 +293,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-29T11:33:01Z"
+    "pushed_at": "2026-10-30T11:15:20Z"
   },
   {
     "name": "nuthatch-desk",
@@ -317,7 +317,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-26T08:26:27Z"
+    "pushed_at": "2026-10-30T10:23:42Z"
   },
   {
     "name": "nuthatch-x402",
