@@ -69,7 +69,7 @@
     "description": "Burrmill compiled to wasm32: nest queries in a browser tab",
     "language": "JavaScript",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-30T08:26:59Z"
+    "pushed_at": "2026-10-30T16:48:38Z"
   },
   {
     "name": "camp",
@@ -86,6 +86,14 @@
     "language": "Rust",
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:25:50Z"
+  },
+  {
+    "name": "chrono",
+    "html_url": "https://github.com/nuthatch-org/chrono",
+    "description": "Date and time library for Rust",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-30T14:38:28Z"
   },
   {
     "name": "compound",
@@ -160,12 +168,28 @@
     "pushed_at": "2026-10-13T09:08:41Z"
   },
   {
+    "name": "feldera",
+    "html_url": "https://github.com/nuthatch-org/feldera",
+    "description": "The Feldera Incremental Computation Engine",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-30T14:33:30Z"
+  },
+  {
     "name": "forsage-bsc",
     "html_url": "https://github.com/nuthatch-org/forsage-bsc",
     "description": "nuthatch nest: Forsage x2 on BNB Smart Chain",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:26:52Z"
+  },
+  {
+    "name": "getrandom",
+    "html_url": "https://github.com/nuthatch-org/getrandom",
+    "description": "A small cross-platform library for retrieving random data from (operating) system source",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-30T14:38:47Z"
   },
   {
     "name": "gmx",
@@ -293,7 +317,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-10-30T11:15:20Z"
+    "pushed_at": "2026-10-31T10:29:58Z"
   },
   {
     "name": "nuthatch-desk",
@@ -317,7 +341,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-30T10:23:42Z"
+    "pushed_at": "2026-10-31T10:17:30Z"
   },
   {
     "name": "nuthatch-x402",
@@ -440,6 +464,14 @@
     "pushed_at": "2026-10-09T18:31:57Z"
   },
   {
+    "name": "size-of",
+    "html_url": "https://github.com/nuthatch-org/size-of",
+    "description": "A fork of size-of from https://github.com/Kixiron/size-of",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-30T14:33:36Z"
+  },
+  {
     "name": "spookyswap-nest",
     "html_url": "https://github.com/nuthatch-org/spookyswap-nest",
     "description": "Nuthatch nest: SpookySwap on Fantom. Ported from a subgraph with 21,491 GRT signalled and zero indexer allocations.",
@@ -528,11 +560,27 @@
     "pushed_at": "2026-10-09T18:33:00Z"
   },
   {
+    "name": "uuid",
+    "html_url": "https://github.com/nuthatch-org/uuid",
+    "description": "Generate and parse UUIDs.",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-30T14:38:38Z"
+  },
+  {
     "name": "velodrome",
     "html_url": "https://github.com/nuthatch-org/velodrome",
     "description": "nuthatch nest: Velodrome on Optimism",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:33:05Z"
+  },
+  {
+    "name": "web-time",
+    "html_url": "https://github.com/nuthatch-org/web-time",
+    "description": "Drop-in replacement for std::time for Wasm in browsers",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-30T14:38:18Z"
   }
 ]
