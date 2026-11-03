@@ -317,7 +317,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-02T09:44:58Z"
+    "pushed_at": "2026-11-03T12:43:38Z"
   },
   {
     "name": "nuthatch-desk",
@@ -341,7 +341,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-01T09:42:11Z"
+    "pushed_at": "2026-11-03T11:26:01Z"
   },
   {
     "name": "nuthatch-x402",
