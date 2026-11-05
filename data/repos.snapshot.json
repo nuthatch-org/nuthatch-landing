@@ -61,7 +61,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-01T18:24:20Z"
+    "pushed_at": "2026-11-05T12:58:39Z"
   },
   {
     "name": "burrmill-wasm",
@@ -80,6 +80,14 @@
     "pushed_at": "2026-10-09T18:25:38Z"
   },
   {
+    "name": "camp-data-service",
+    "html_url": "https://github.com/nuthatch-org/camp-data-service",
+    "description": "Turns a self-hosted camp instance into a paid provider on Graph Horizon. TAP (GraphTally) receipts in, GRT collected on-chain on Arbitrum One.",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:27Z"
+  },
+  {
     "name": "camp-node",
     "html_url": "https://github.com/nuthatch-org/camp-node",
     "description": "The indexing engine behind camp / engine.camp. A source-built ETL engine for blockchain data (EVM RPC to DataFusion SQL to Parquet to Arrow Flight/JSONL). Built on Edge & Node's Amp, BUSL-1.1.",
@@ -88,12 +96,36 @@
     "pushed_at": "2026-10-09T18:25:50Z"
   },
   {
+    "name": "candidate-selection",
+    "html_url": "https://github.com/nuthatch-org/candidate-selection",
+    "description": "Fork of edgeandnode/candidate-selection with runtime-configurable indexer-selection weights (gib)",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:29Z"
+  },
+  {
+    "name": "chain-integration-ds",
+    "html_url": "https://github.com/nuthatch-org/chain-integration-ds",
+    "description": "Chain integrations as a Horizon data service: meter per-chain integration revenue through the protocol. Settles via RecurringCollector (integration fee + ongoing support), not per-query receipts. Reference implementation.",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:31Z"
+  },
+  {
     "name": "chrono",
     "html_url": "https://github.com/nuthatch-org/chrono",
     "description": "Date and time library for Rust",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-30T14:38:28Z"
+  },
+  {
+    "name": "compass",
+    "html_url": "https://github.com/nuthatch-org/compass",
+    "description": "A decentralised Subgraph-MCP gateway as a Horizon data service. Every subgraph becomes a pay-per-call MCP tool for AI agents, settled in GRT or USDC.",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:33Z"
   },
   {
     "name": "compound",
@@ -136,6 +168,14 @@
     "pushed_at": "2026-10-13T09:08:37Z"
   },
   {
+    "name": "dispatch",
+    "html_url": "https://github.com/nuthatch-org/dispatch",
+    "description": "Dispatch is a decentralised JSON-RPC service built on The Graph Protocol’s Horizon framework",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:39Z"
+  },
+  {
     "name": "doudouchain-v2-nest",
     "html_url": "https://github.com/nuthatch-org/doudouchain-v2-nest",
     "description": "Nuthatch event-input nest for the ICHICHAIN/Doudo Arbitrum deployment",
@@ -176,12 +216,36 @@
     "pushed_at": "2026-10-30T14:33:30Z"
   },
   {
+    "name": "FHSCE",
+    "html_url": "https://github.com/nuthatch-org/FHSCE",
+    "description": "File Hosting Service, Community Edition. A Horizon-native, TAP v2 (GraphTally) paid data service for trust-minimised chunked file sharing. Forked from graphops/file-hosting-service and brought onto Arbitrum One.",
+    "language": "Makefile",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:24Z"
+  },
+  {
+    "name": "foghorn",
+    "html_url": "https://github.com/nuthatch-org/foghorn",
+    "description": "A network-quality judge for The Graph. Block-pinned GraphQL probes and JCS hashing catch indexers serving confident, well-formed garbage.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:43Z"
+  },
+  {
     "name": "forsage-bsc",
     "html_url": "https://github.com/nuthatch-org/forsage-bsc",
     "description": "nuthatch nest: Forsage x2 on BNB Smart Chain",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:26:52Z"
+  },
+  {
+    "name": "gateway",
+    "html_url": "https://github.com/nuthatch-org/gateway",
+    "description": "lodestar-gateway, an independent self-funded Graph Network gateway for Arbitrum One, post-Horizon. Fork of edgeandnode/gateway.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:45Z"
   },
   {
     "name": "getrandom",
@@ -192,12 +256,36 @@
     "pushed_at": "2026-10-30T14:38:47Z"
   },
   {
+    "name": "gib",
+    "html_url": "https://github.com/nuthatch-org/gib",
+    "description": "Gateway-in-a-Box: a self-hostable Graph Protocol subgraph gateway for Horizon / Arbitrum One",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:47Z"
+  },
+  {
+    "name": "gib-skill",
+    "html_url": "https://github.com/nuthatch-org/gib-skill",
+    "description": "Claude Code concierge for deploying & validating a Graph Horizon gateway with gib. Sibling to lodestone.",
+    "language": "Shell",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:49Z"
+  },
+  {
     "name": "gmx",
     "html_url": "https://github.com/nuthatch-org/gmx",
     "description": "nuthatch nest: GMX V1 Vault on Arbitrum",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:27:13Z"
+  },
+  {
+    "name": "graph-academy-v2",
+    "html_url": "https://github.com/nuthatch-org/graph-academy-v2",
+    "description": "The Graph Academy: community-owned learning site for The Graph. Role-based paths, checked against the Horizon-era protocol, with every number sourced and dated.",
+    "language": "MDX",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:51Z"
   },
   {
     "name": "graph-allocations-nest",
@@ -224,6 +312,14 @@
     "pushed_at": "2026-10-13T09:08:57Z"
   },
   {
+    "name": "graph-network-nest",
+    "html_url": "https://github.com/nuthatch-org/graph-network-nest",
+    "description": null,
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:00Z"
+  },
+  {
     "name": "graph-staking-nest",
     "html_url": "https://github.com/nuthatch-org/graph-staking-nest",
     "description": "Nuthatch nest for The Graph HorizonStaking delegation activity on Arbitrum One",
@@ -232,12 +328,28 @@
     "pushed_at": "2026-10-13T09:09:02Z"
   },
   {
+    "name": "graph-support",
+    "html_url": "https://github.com/nuthatch-org/graph-support",
+    "description": "Something in The Graph is broken and nobody is answering. Community triage: you get a root cause, a workaround, or the name of whoever can actually fix it.",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-29T08:07:53Z"
+  },
+  {
     "name": "graph-tap-escrow-nest",
     "html_url": "https://github.com/nuthatch-org/graph-tap-escrow-nest",
     "description": "Nuthatch nest for legacy TAP escrow activity on Arbitrum One",
     "language": "SQL",
     "stargazers_count": 0,
     "pushed_at": "2026-10-13T09:09:06Z"
+  },
+  {
+    "name": "graphite",
+    "html_url": "https://github.com/nuthatch-org/graphite",
+    "description": "A Rust SDK for building subgraphs on The Graph",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:08Z"
   },
   {
     "name": "grt-supply-nest",
@@ -256,12 +368,52 @@
     "pushed_at": "2026-10-09T18:28:02Z"
   },
   {
+    "name": "hello-data-service",
+    "html_url": "https://github.com/nuthatch-org/hello-data-service",
+    "description": "Minimal Horizon data service reference implementation, companion to the Lodestar guide.",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:12Z"
+  },
+  {
+    "name": "hermit-ds",
+    "html_url": "https://github.com/nuthatch-org/hermit-ds",
+    "description": "The inverse analytics service: indexes wallets that have gone quiet, serves wake alerts when they stir. A Graph Horizon data service generated entirely by lodestone.",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:14Z"
+  },
+  {
     "name": "homebrew-tap",
     "html_url": "https://github.com/nuthatch-org/homebrew-tap",
     "description": "Homebrew formulae for nuthatch-org tools",
     "language": "Ruby",
     "stargazers_count": 0,
     "pushed_at": "2026-10-26T08:16:34Z"
+  },
+  {
+    "name": "horizon-core",
+    "html_url": "https://github.com/nuthatch-org/horizon-core",
+    "description": "Reusable building blocks for The Graph Horizon data services: TAP v2 receipt validation, RAV aggregation, on-chain collection, persistence, and a generic TAP-gated reverse proxy.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:16Z"
+  },
+  {
+    "name": "horizon-doctor",
+    "html_url": "https://github.com/nuthatch-org/horizon-doctor",
+    "description": "Read-only preflight and migration validation CLI for the Graph indexer stack (Horizon). Turns the Horizon-era startup panic into a controlled, explained gate.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:17Z"
+  },
+  {
+    "name": "horizon-indexer-performance-redstart",
+    "html_url": "https://github.com/nuthatch-org/horizon-indexer-performance-redstart",
+    "description": "Subgraph for The Graph Horizon (Arbitrum One), authored in Redstart. A port of PaulieB14/horizon-indexer-subgraph, live on Subgraph Studio.",
+    "language": "Red",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:19Z"
   },
   {
     "name": "horizon-nest",
@@ -272,12 +424,44 @@
     "pushed_at": "2026-10-13T09:09:21Z"
   },
   {
+    "name": "horizon-skills",
+    "html_url": "https://github.com/nuthatch-org/horizon-skills",
+    "description": "Distil a complete Graph Horizon data service from a short spec. Claude Code plugin (proxy + pipeline archetypes), built on horizon-core.",
+    "language": "Go Template",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:23Z"
+  },
+  {
+    "name": "indexer-gateway-auth",
+    "html_url": "https://github.com/nuthatch-org/indexer-gateway-auth",
+    "description": "An authenticating reverse proxy for the Graph Protocol Indexer Management API.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:24Z"
+  },
+  {
+    "name": "kittiwake",
+    "html_url": "https://github.com/nuthatch-org/kittiwake",
+    "description": "Lodestar's Rust backend: one process that owns every server-side route and fronts the nuthatch nests with a global admission gate, request coalescing and a derived freshness model.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-04T10:00:33Z"
+  },
+  {
     "name": "lido",
     "html_url": "https://github.com/nuthatch-org/lido",
     "description": "nuthatch nest: Lido stETH on Ethereum",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:28:50Z"
+  },
+  {
+    "name": "liminal",
+    "html_url": "https://github.com/nuthatch-org/liminal",
+    "description": "Polyglot, capability-isolated WASIp2 component runtime for streaming indexing pipelines on The Graph",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:28Z"
   },
   {
     "name": "livepeer-nest",
@@ -312,12 +496,20 @@
     "pushed_at": "2026-10-23T09:32:33Z"
   },
   {
+    "name": "nutcracker",
+    "html_url": "https://github.com/nuthatch-org/nutcracker",
+    "description": "End-to-end encrypted, user-owned agent memory as a Horizon data service. E2E encryption and semantic recall do not compose; this picks a blind index over coarse buckets and says what leaks. Reference implementation.",
+    "language": "Makefile",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:33Z"
+  },
+  {
     "name": "nuthatch",
     "html_url": "https://github.com/nuthatch-org/nuthatch",
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-04T12:48:30Z"
+    "pushed_at": "2026-11-05T12:57:23Z"
   },
   {
     "name": "nuthatch-desk",
@@ -341,7 +533,15 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-04T10:35:02Z"
+    "pushed_at": "2026-11-04T18:37:21Z"
+  },
+  {
+    "name": "nuthatch-landing",
+    "html_url": "https://github.com/nuthatch-org/nuthatch-landing",
+    "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
+    "language": "CSS",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-04T12:59:23Z"
   },
   {
     "name": "nuthatch-x402",
@@ -368,6 +568,14 @@
     "pushed_at": "2026-10-09T18:30:28Z"
   },
   {
+    "name": "openloom-bsc-nest",
+    "html_url": "https://github.com/nuthatch-org/openloom-bsc-nest",
+    "description": "Stopgap: the openloom-bsc subgraph (BNB Chain) served from a nuthatch nest while no indexer on The Graph network serves it. graph-support#53.",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:10:06Z"
+  },
+  {
     "name": "opolis-nest",
     "html_url": "https://github.com/nuthatch-org/opolis-nest",
     "description": "The Opolis Mainnet subgraph as a self-hosted nuthatch nest: three contracts, thirty tables, one binary",
@@ -376,12 +584,28 @@
     "pushed_at": "2026-10-09T18:30:39Z"
   },
   {
+    "name": "ox-ai-pro-nest",
+    "html_url": "https://github.com/nuthatch-org/ox-ai-pro-nest",
+    "description": "Limited event-history fallback for the OX AI PRO Polygon subgraph",
+    "language": "Python",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:10:05Z"
+  },
+  {
     "name": "pancakeswap-infinity-cl-bsc",
     "html_url": "https://github.com/nuthatch-org/pancakeswap-infinity-cl-bsc",
     "description": "nuthatch nest: PancakeSwap Infinity CL on BNB Smart Chain",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:30:45Z"
+  },
+  {
+    "name": "pancakeswap-infinity-cl-redstart",
+    "html_url": "https://github.com/nuthatch-org/pancakeswap-infinity-cl-redstart",
+    "description": "A Redstart port of the PancakeSwap Infinity CL subgraph, where the null-deref that took the original dark is a compile error (GPL-3.0, derived from Uniswap/v4-subgraph)",
+    "language": "Red",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:10:12Z"
   },
   {
     "name": "pancakeswap-v3-bsc",
@@ -416,6 +640,14 @@
     "pushed_at": "2026-10-09T18:31:13Z"
   },
   {
+    "name": "polaris",
+    "html_url": "https://github.com/nuthatch-org/polaris",
+    "description": "Polaris: tokenless Horizon fork on Arbitrum One (wstETH stake, USDC payments, no inflation)",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:38Z"
+  },
+  {
     "name": "postcard-s0-pages",
     "html_url": "https://github.com/nuthatch-org/postcard-s0-pages",
     "description": "RFC-0068 S0 test host: one published nest on GitHub Pages. Safe to delete.",
@@ -440,6 +672,14 @@
     "pushed_at": "2026-10-26T10:52:59Z"
   },
   {
+    "name": "reo-doctor",
+    "html_url": "https://github.com/nuthatch-org/reo-doctor",
+    "description": "Read-only REO (Rewards Eligibility Oracle / GIP-0088) health check for The Graph indexers",
+    "language": "Shell",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:44Z"
+  },
+  {
     "name": "request-payments",
     "html_url": "https://github.com/nuthatch-org/request-payments",
     "description": "nuthatch nest: Request Network payment proxies on Ethereum",
@@ -454,6 +694,22 @@
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-13T09:09:46Z"
+  },
+  {
+    "name": "SDSCE",
+    "html_url": "https://github.com/nuthatch-org/SDSCE",
+    "description": "Substreams Data Service Community Edition",
+    "language": "Go",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:08:26Z"
+  },
+  {
+    "name": "seahorn",
+    "html_url": "https://github.com/nuthatch-org/seahorn",
+    "description": "Solana structured data service on Graph Horizon. Indexes Solana program activity into typed, fork-correct entities, served over REST and paid per query in GRT.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:48Z"
   },
   {
     "name": "seaport",
@@ -496,6 +752,22 @@
     "pushed_at": "2026-10-13T09:09:50Z"
   },
   {
+    "name": "swissindexingknife",
+    "html_url": "https://github.com/nuthatch-org/swissindexingknife",
+    "description": "sik, a CLI for Graph Protocol indexer operations that wraps every known API quirk so you never have to remember them. For human operators and AI agents alike.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:52Z"
+  },
+  {
+    "name": "tap-query",
+    "html_url": "https://github.com/nuthatch-org/tap-query",
+    "description": "Pay The Graph's indexers directly with TAP receipts and query them, without a gateway.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:54Z"
+  },
+  {
     "name": "tattler",
     "html_url": "https://github.com/nuthatch-org/tattler",
     "description": "Signed, replayable receipts for indexed chain data. An answer you can hand someone who has no reason to trust you.",
@@ -509,7 +781,15 @@
     "description": "A sealed, verifiable history corpus for EVM chains, and one small process that serves it.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-09T18:32:28Z"
+    "pushed_at": "2026-11-05T12:58:51Z"
+  },
+  {
+    "name": "the-legacy-demo",
+    "html_url": "https://github.com/nuthatch-org/the-legacy-demo",
+    "description": "Live status of The Legacy's archive-RPC Shadow run",
+    "language": "HTML",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-05T13:08:00Z"
   },
   {
     "name": "uniswap-v2",
@@ -576,11 +856,43 @@
     "pushed_at": "2026-10-09T18:33:05Z"
   },
   {
+    "name": "vince-data-service",
+    "html_url": "https://github.com/nuthatch-org/vince-data-service",
+    "description": "A real Horizon data service for locating individuals named Vince, worldwide",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:56Z"
+  },
+  {
+    "name": "waxwing",
+    "html_url": "https://github.com/nuthatch-org/waxwing",
+    "description": "Handing synced subgraph deployments between Graph indexers",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:09:58Z"
+  },
+  {
+    "name": "weaver",
+    "html_url": "https://github.com/nuthatch-org/weaver",
+    "description": "Direct Indexer Payment agreements on The Graph. Build, sign and check Recurring Collection Agreements — with the EIP-712 hashing verified against the deployed RecurringCollector rather than against a reading of the spec.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:10:00Z"
+  },
+  {
     "name": "web-time",
     "html_url": "https://github.com/nuthatch-org/web-time",
     "description": "Drop-in replacement for std::time for Wasm in browsers",
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-30T14:38:18Z"
+  },
+  {
+    "name": "wsaas",
+    "html_url": "https://github.com/nuthatch-org/wsaas",
+    "description": "WebSocket data service on Graph Horizon. Stream pre-parsed transfers, swaps and exchange events over one connection, gated by TAP v2 micropayments.",
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "pushed_at": "2026-10-13T09:10:02Z"
   }
 ]
