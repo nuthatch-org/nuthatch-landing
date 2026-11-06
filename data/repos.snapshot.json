@@ -61,7 +61,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-05T12:58:39Z"
+    "pushed_at": "2026-11-05T13:46:24Z"
   },
   {
     "name": "burrmill-wasm",
@@ -333,7 +333,7 @@
     "description": "Something in The Graph is broken and nobody is answering. Community triage: you get a root cause, a workaround, or the name of whoever can actually fix it.",
     "language": "TypeScript",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-29T08:07:53Z"
+    "pushed_at": "2026-11-05T18:31:48Z"
   },
   {
     "name": "graph-tap-escrow-nest",
@@ -509,7 +509,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-05T12:57:23Z"
+    "pushed_at": "2026-11-06T12:08:37Z"
   },
   {
     "name": "nuthatch-desk",
@@ -541,7 +541,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-04T12:59:23Z"
+    "pushed_at": "2026-11-05T13:12:25Z"
   },
   {
     "name": "nuthatch-x402",
@@ -781,7 +781,7 @@
     "description": "A sealed, verifiable history corpus for EVM chains, and one small process that serves it.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-05T12:58:51Z"
+    "pushed_at": "2026-11-05T14:12:41Z"
   },
   {
     "name": "the-legacy-demo",
@@ -789,7 +789,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-05T13:08:00Z"
+    "pushed_at": "2026-11-06T12:49:22Z"
   },
   {
     "name": "uniswap-v2",
