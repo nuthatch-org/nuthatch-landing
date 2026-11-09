@@ -464,6 +464,14 @@
     "pushed_at": "2026-10-13T09:09:28Z"
   },
   {
+    "name": "liquidations-nest",
+    "html_url": "https://github.com/nuthatch-org/liquidations-nest",
+    "description": "Every lending liquidation on Ethereum since 2023, as a nuthatch nest: Aave, Spark, Compound, Morpho, Sky, Liquity",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-08T17:56:31Z"
+  },
+  {
     "name": "livepeer-nest",
     "html_url": "https://github.com/nuthatch-org/livepeer-nest",
     "description": "A nuthatch nest: Livepeer protocol on Arbitrum One (transcoders, rounds, delegators, tickets, governance polls). Mirrors the official Livepeer subgraph.",
@@ -509,7 +517,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-07T08:36:20Z"
+    "pushed_at": "2026-11-09T13:51:26Z"
   },
   {
     "name": "nuthatch-desk",
@@ -533,7 +541,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-04T18:37:21Z"
+    "pushed_at": "2026-11-08T20:50:21Z"
   },
   {
     "name": "nuthatch-landing",
@@ -541,7 +549,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-07T11:43:46Z"
+    "pushed_at": "2026-11-08T11:56:04Z"
   },
   {
     "name": "nuthatch-x402",
@@ -789,7 +797,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-08T11:50:39Z"
+    "pushed_at": "2026-11-09T13:47:00Z"
   },
   {
     "name": "uniswap-v2",
