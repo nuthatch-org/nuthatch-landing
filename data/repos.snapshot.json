@@ -61,7 +61,7 @@
     "description": "Sync bounties on BountyBoard 2.0.0 (Arbitrum One) as SQL. A nuthatch nest.",
     "language": "SQL",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-11T19:10:44Z"
+    "pushed_at": "2026-11-13T12:03:46Z"
   },
   {
     "name": "burrmill",
@@ -69,7 +69,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-12T12:56:39Z"
+    "pushed_at": "2026-11-13T12:56:15Z"
   },
   {
     "name": "burrmill-wasm",
@@ -197,7 +197,7 @@
     "description": "Lodestar Drydock: run a real graph-node on your own machine against your subgraph, with sync, errors, logs and a query box",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-11T16:58:12Z"
+    "pushed_at": "2026-11-13T12:43:57Z"
   },
   {
     "name": "eigenlayer",
@@ -245,7 +245,7 @@
     "description": "A network-quality judge for The Graph. Block-pinned GraphQL probes and JCS hashing catch indexers serving confident, well-formed garbage.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-13T09:08:43Z"
+    "pushed_at": "2026-11-13T13:00:06Z"
   },
   {
     "name": "forsage-bsc",
@@ -309,7 +309,7 @@
     "description": "Nuthatch nest: Graph Horizon allocations + curation signal on Arbitrum One. Finds subgraph deployments with signal staked and no indexer serving them.",
     "language": "SQL",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-04T09:04:56Z"
+    "pushed_at": "2026-11-13T13:04:33Z"
   },
   {
     "name": "graph-gns-nest",
@@ -461,7 +461,7 @@
     "description": "Lodestar's Rust backend: one process that owns every server-side route and fronts the nuthatch nests with a global admission gate, request coalescing and a derived freshness model.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-12T12:12:42Z"
+    "pushed_at": "2026-11-12T20:38:09Z"
   },
   {
     "name": "lido",
@@ -533,7 +533,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-12T13:45:29Z"
+    "pushed_at": "2026-11-13T13:03:30Z"
   },
   {
     "name": "nuthatch-desk",
@@ -557,7 +557,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-12T11:54:27Z"
+    "pushed_at": "2026-11-13T12:50:25Z"
   },
   {
     "name": "nuthatch-landing",
@@ -565,7 +565,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-11T12:43:09Z"
+    "pushed_at": "2026-11-13T12:55:12Z"
   },
   {
     "name": "nuthatch-x402",
@@ -693,7 +693,7 @@
     "description": "the sexiest language for authoring The Graph subgraphs",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-26T10:52:59Z"
+    "pushed_at": "2026-11-13T13:06:27Z"
   },
   {
     "name": "reo-doctor",
@@ -805,7 +805,7 @@
     "description": "A sealed, verifiable history corpus for EVM chains, and one small process that serves it.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-05T14:12:41Z"
+    "pushed_at": "2026-11-13T13:02:54Z"
   },
   {
     "name": "the-legacy-demo",
@@ -813,7 +813,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-12T13:36:18Z"
+    "pushed_at": "2026-11-13T13:01:55Z"
   },
   {
     "name": "uniswap-v2",
