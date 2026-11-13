@@ -55,3 +55,5 @@ run = []
 [tasks.mark]
 desc = "Redraw the sigil from scripts/make-mark.py"
 run = ["python3 scripts/make-mark.py"]
+sources = ["scripts/make-mark.py"]
+outputs = ["src/static/mark.svg", "src/static/mark-inline.svg", "src/static/mark.png", "src/static/logo.png"]
