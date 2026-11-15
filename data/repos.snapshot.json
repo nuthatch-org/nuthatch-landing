@@ -48,6 +48,22 @@
     "pushed_at": "2026-10-09T18:25:22Z"
   },
   {
+    "name": "aztec-staking-nest",
+    "html_url": "https://github.com/nuthatch-org/aztec-staking-nest",
+    "description": "Aztec staking on Ethereum as a nuthatch nest: the four Rollup contracts in SQL on your own machine",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-14T16:06:30Z"
+  },
+  {
+    "name": "bee-eater",
+    "html_url": "https://github.com/nuthatch-org/bee-eater",
+    "description": "One command, one question: is this safe to run? An agent takes the artefact apart and detonates it in a disposable microVM. Research stage.",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-14T15:59:23Z"
+  },
+  {
     "name": "betswirl-bnb-nest",
     "html_url": "https://github.com/nuthatch-org/betswirl-bnb-nest",
     "description": "Retired 2026-10-07 (no users). The first nuthatch subgraph stopgap nest: BetSwirl on BNB Chain. Still seedable from the public mirror; handback in nightswatchhq/nuthatch docs/stopgap/betswirl-bnb.md.",
@@ -68,8 +84,8 @@
     "html_url": "https://github.com/nuthatch-org/burrmill",
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
-    "stargazers_count": 0,
-    "pushed_at": "2026-11-14T10:49:59Z"
+    "stargazers_count": 1,
+    "pushed_at": "2026-11-14T18:45:25Z"
   },
   {
     "name": "burrmill-wasm",
@@ -77,7 +93,7 @@
     "description": "Burrmill compiled to wasm32: nest queries in a browser tab",
     "language": "JavaScript",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T07:36:58Z"
+    "pushed_at": "2026-11-15T07:03:29Z"
   },
   {
     "name": "camp",
@@ -197,7 +213,7 @@
     "description": "Lodestar Drydock: run a real graph-node on your own machine against your subgraph, with sync, errors, logs and a query box",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T07:42:09Z"
+    "pushed_at": "2026-11-14T18:32:39Z"
   },
   {
     "name": "eigenlayer",
@@ -301,7 +317,7 @@
     "description": "The Graph Academy: community-owned learning site for The Graph. Role-based paths, checked against the Horizon-era protocol, with every number sourced and dated.",
     "language": "MDX",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T07:44:43Z"
+    "pushed_at": "2026-11-14T18:32:39Z"
   },
   {
     "name": "graph-allocations-nest",
@@ -334,6 +350,14 @@
     "language": "SQL",
     "stargazers_count": 0,
     "pushed_at": "2026-11-13T17:34:15Z"
+  },
+  {
+    "name": "graph-sentinel",
+    "html_url": "https://github.com/nuthatch-org/graph-sentinel",
+    "description": "Read-only sentinel for Graph indexers: frozen deployments, suspect POIs, REO shortfalls, broken payment paths",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-14T19:17:44Z"
   },
   {
     "name": "graph-staking-nest",
@@ -456,12 +480,20 @@
     "pushed_at": "2026-10-13T09:09:24Z"
   },
   {
+    "name": "kingfisher",
+    "html_url": "https://github.com/nuthatch-org/kingfisher",
+    "description": "Local browser-based live view of a coding agent at work: Rust daemon, WebGPU scene, chat back and approve",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-14T16:27:42Z"
+  },
+  {
     "name": "kittiwake",
     "html_url": "https://github.com/nuthatch-org/kittiwake",
     "description": "Lodestar's Rust backend: one process that owns every server-side route and fronts the nuthatch nests with a global admission gate, request coalescing and a derived freshness model.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T10:49:53Z"
+    "pushed_at": "2026-11-14T18:32:40Z"
   },
   {
     "name": "lido",
@@ -517,7 +549,7 @@
     "description": "The index of prebuilt Nuthatch nests: packaged indexing definitions that replace a rented subgraph with a self-hosted one.",
     "language": "Shell",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T07:55:34Z"
+    "pushed_at": "2026-11-15T07:14:05Z"
   },
   {
     "name": "nutcracker",
@@ -533,7 +565,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-14T11:09:24Z"
+    "pushed_at": "2026-11-14T19:59:35Z"
   },
   {
     "name": "nuthatch-desk",
@@ -541,7 +573,7 @@
     "description": "A read-only Qt desktop client for a running Nuthatch nest. Rust, QML, cxx-qt.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T08:10:57Z"
+    "pushed_at": "2026-11-14T18:47:28Z"
   },
   {
     "name": "nuthatch-ds",
@@ -557,7 +589,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-13T17:18:25Z"
+    "pushed_at": "2026-11-14T19:18:19Z"
   },
   {
     "name": "nuthatch-landing",
@@ -565,7 +597,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-13T17:18:29Z"
+    "pushed_at": "2026-11-14T12:11:28Z"
   },
   {
     "name": "nuthatch-x402",
@@ -688,6 +720,14 @@
     "pushed_at": "2026-10-22T14:16:14Z"
   },
   {
+    "name": "pwnpot-nest",
+    "html_url": "https://github.com/nuthatch-org/pwnpot-nest",
+    "description": "nuthatch nest for Pwnpot's CTFPlatform on Base Sepolia: every event as SQL, plus ctf_history and player_stats",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-15T07:13:07Z"
+  },
+  {
     "name": "qos-reo-nest",
     "html_url": "https://github.com/nuthatch-org/qos-reo-nest",
     "description": "Nuthatch nest for The Graph QoS and Rewards Eligibility Oracle data",
@@ -701,7 +741,7 @@
     "description": "the sexiest language for authoring The Graph subgraphs",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T07:43:11Z"
+    "pushed_at": "2026-11-14T18:32:40Z"
   },
   {
     "name": "reo-doctor",
@@ -821,7 +861,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T12:07:19Z"
+    "pushed_at": "2026-11-15T12:43:06Z"
   },
   {
     "name": "uniswap-v2",
