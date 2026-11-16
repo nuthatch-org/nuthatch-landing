@@ -565,7 +565,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-14T19:59:35Z"
+    "pushed_at": "2026-11-16T12:36:36Z"
   },
   {
     "name": "nuthatch-desk",
@@ -597,7 +597,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T12:11:28Z"
+    "pushed_at": "2026-11-15T12:44:16Z"
   },
   {
     "name": "nuthatch-x402",
@@ -861,7 +861,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-15T12:43:06Z"
+    "pushed_at": "2026-11-16T13:38:54Z"
   },
   {
     "name": "uniswap-v2",
