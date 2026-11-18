@@ -13,7 +13,7 @@
     "description": "nuthatch nest: Aave V3 on Ethereum",
     "language": null,
     "stargazers_count": 0,
-    "pushed_at": "2026-11-13T18:01:49Z"
+    "pushed_at": "2026-11-18T08:35:29Z"
   },
   {
     "name": "aave-v3-arbitrum",
@@ -46,6 +46,14 @@
     "language": "Rust",
     "stargazers_count": 0,
     "pushed_at": "2026-10-09T18:42:08Z"
+  },
+  {
+    "name": "arc-usdc-nest",
+    "html_url": "https://github.com/nuthatch-org/arc-usdc-nest",
+    "description": "USDC on Arc testnet, both its ERC-20 interface and native movements, as a nuthatch nest",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-17T19:23:45Z"
   },
   {
     "name": "arcaidia-nest",
@@ -93,7 +101,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 1,
-    "pushed_at": "2026-11-17T14:08:17Z"
+    "pushed_at": "2026-11-17T19:46:05Z"
   },
   {
     "name": "burrmill-wasm",
@@ -261,7 +269,7 @@
     "description": "Circle's EURC on Ethereum as a nuthatch nest: supply, holders and MiCA Art 22 figures on your own box, re-executable from the public mirror",
     "language": "SQL",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-17T10:19:29Z"
+    "pushed_at": "2026-11-17T16:45:39Z"
   },
   {
     "name": "feldera",
@@ -573,7 +581,7 @@
     "description": "The index of prebuilt Nuthatch nests: packaged indexing definitions that replace a rented subgraph with a self-hosted one.",
     "language": "Shell",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-15T07:14:05Z"
+    "pushed_at": "2026-11-18T08:15:50Z"
   },
   {
     "name": "nutcracker",
@@ -589,7 +597,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-17T14:22:04Z"
+    "pushed_at": "2026-11-18T10:45:06Z"
   },
   {
     "name": "nuthatch-desk",
@@ -613,7 +621,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-17T13:22:37Z"
+    "pushed_at": "2026-11-18T06:50:52Z"
   },
   {
     "name": "nuthatch-landing",
@@ -621,7 +629,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-16T13:39:18Z"
+    "pushed_at": "2026-11-17T14:24:16Z"
   },
   {
     "name": "nuthatch-x402",
@@ -885,7 +893,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-17T14:15:05Z"
+    "pushed_at": "2026-11-18T13:50:46Z"
   },
   {
     "name": "uniswap-v2",
@@ -936,6 +944,22 @@
     "pushed_at": "2026-10-09T18:33:00Z"
   },
   {
+    "name": "usdc-base-nest",
+    "html_url": "https://github.com/nuthatch-org/usdc-base-nest",
+    "description": "Circle's native USDC on Base, as a nuthatch nest",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-17T19:17:29Z"
+  },
+  {
+    "name": "usdc-nest",
+    "html_url": "https://github.com/nuthatch-org/usdc-nest",
+    "description": "Circle's USDC on Ethereum mainnet, as a nuthatch nest",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-17T19:17:11Z"
+  },
+  {
     "name": "uuid",
     "html_url": "https://github.com/nuthatch-org/uuid",
     "description": "Generate and parse UUIDs.",
@@ -982,6 +1006,14 @@
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-10-30T14:38:18Z"
+  },
+  {
+    "name": "weth-nest",
+    "html_url": "https://github.com/nuthatch-org/weth-nest",
+    "description": "WETH on Ethereum mainnet, as a nuthatch nest",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-17T19:25:22Z"
   },
   {
     "name": "wsaas",
