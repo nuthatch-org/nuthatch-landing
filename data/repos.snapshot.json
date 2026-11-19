@@ -53,7 +53,7 @@
     "description": "USDC on Arc testnet, both its ERC-20 interface and native movements, as a nuthatch nest",
     "language": "SQL",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-17T19:23:45Z"
+    "pushed_at": "2026-11-19T11:42:36Z"
   },
   {
     "name": "arcaidia-nest",
@@ -88,6 +88,14 @@
     "pushed_at": "2026-11-13T17:33:56Z"
   },
   {
+    "name": "blocksquare-nest",
+    "html_url": "https://github.com/nuthatch-org/blocksquare-nest",
+    "description": "Nuthatch nest indexing Blocksquare property token contracts",
+    "language": "SQL",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-19T10:00:45Z"
+  },
+  {
     "name": "bounty-nest",
     "html_url": "https://github.com/nuthatch-org/bounty-nest",
     "description": "Sync bounties on BountyBoard 2.0.0 (Arbitrum One) as SQL. A nuthatch nest.",
@@ -101,7 +109,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 1,
-    "pushed_at": "2026-11-17T19:46:05Z"
+    "pushed_at": "2026-11-19T13:55:51Z"
   },
   {
     "name": "burrmill-wasm",
@@ -184,6 +192,14 @@
     "pushed_at": "2026-11-13T18:03:06Z"
   },
   {
+    "name": "create-eth-nuthatch",
+    "html_url": "https://github.com/nuthatch-org/create-eth-nuthatch",
+    "description": "Scaffold-ETH extension that wires a Nuthatch nest into create-eth apps",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-19T13:11:15Z"
+  },
+  {
     "name": "data-services-nest",
     "html_url": "https://github.com/nuthatch-org/data-services-nest",
     "description": null,
@@ -200,12 +216,20 @@
     "pushed_at": "2026-11-13T17:34:40Z"
   },
   {
+    "name": "DevNet",
+    "html_url": "https://github.com/nuthatch-org/DevNet",
+    "description": "   Open protocol for training shared AI models on data where it lives: federated learning coordinated by smart contracts on Ethereum. Bring AI to the data, not the data to AI.",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-19T09:46:54Z"
+  },
+  {
     "name": "din-nest",
     "html_url": "https://github.com/nuthatch-org/din-nest",
     "description": "nuthatch nest for the DIN protocol contracts, a comparison spike against DevNet PR 29's subgraph",
     "language": "SQL",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-16T15:29:50Z"
+    "pushed_at": "2026-11-18T19:48:41Z"
   },
   {
     "name": "dips-nest",
@@ -597,7 +621,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 7,
-    "pushed_at": "2026-11-18T10:45:06Z"
+    "pushed_at": "2026-11-19T14:22:53Z"
   },
   {
     "name": "nuthatch-desk",
@@ -621,7 +645,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-18T06:50:52Z"
+    "pushed_at": "2026-11-19T14:23:08Z"
   },
   {
     "name": "nuthatch-landing",
@@ -629,7 +653,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-17T14:24:16Z"
+    "pushed_at": "2026-11-18T13:58:22Z"
   },
   {
     "name": "nuthatch-x402",
@@ -800,6 +824,14 @@
     "pushed_at": "2026-11-13T17:53:13Z"
   },
   {
+    "name": "rotki",
+    "html_url": "https://github.com/nuthatch-org/rotki",
+    "description": "A portfolio tracking, analytics, accounting and management application that protects your privacy",
+    "language": null,
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-19T09:48:24Z"
+  },
+  {
     "name": "SDSCE",
     "html_url": "https://github.com/nuthatch-org/SDSCE",
     "description": "Substreams Data Service Community Edition",
@@ -893,7 +925,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-18T13:50:46Z"
+    "pushed_at": "2026-11-19T14:16:45Z"
   },
   {
     "name": "uniswap-v2",
