@@ -109,7 +109,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 1,
-    "pushed_at": "2026-11-19T13:55:51Z"
+    "pushed_at": "2026-11-20T13:50:56Z"
   },
   {
     "name": "burrmill-wasm",
@@ -620,8 +620,8 @@
     "html_url": "https://github.com/nuthatch-org/nuthatch",
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
-    "stargazers_count": 7,
-    "pushed_at": "2026-11-19T14:22:53Z"
+    "stargazers_count": 8,
+    "pushed_at": "2026-11-20T12:44:50Z"
   },
   {
     "name": "nuthatch-desk",
@@ -645,7 +645,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-19T14:23:08Z"
+    "pushed_at": "2026-11-20T11:46:34Z"
   },
   {
     "name": "nuthatch-landing",
@@ -653,7 +653,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-18T13:58:22Z"
+    "pushed_at": "2026-11-19T14:25:55Z"
   },
   {
     "name": "nuthatch-x402",
@@ -797,7 +797,7 @@
     "description": "the sexiest language for authoring The Graph subgraphs",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T18:32:40Z"
+    "pushed_at": "2026-11-20T12:17:20Z"
   },
   {
     "name": "reo-doctor",
@@ -830,6 +830,22 @@
     "language": null,
     "stargazers_count": 0,
     "pushed_at": "2026-11-19T09:48:24Z"
+  },
+  {
+    "name": "rotki-agent-tools",
+    "html_url": "https://github.com/nuthatch-org/rotki-agent-tools",
+    "description": "Claude Code skills for rotki users: sync doctor, decoder and accounting-rule assistant, tax-report reconciler",
+    "language": "Python",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-20T12:39:19Z"
+  },
+  {
+    "name": "rotki-nuthatch",
+    "html_url": "https://github.com/nuthatch-org/rotki-nuthatch",
+    "description": "A portfolio tracking, analytics, accounting and management application that protects your privacy",
+    "language": "Python",
+    "stargazers_count": 0,
+    "pushed_at": "2026-11-20T10:33:14Z"
   },
   {
     "name": "SDSCE",
@@ -925,7 +941,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-19T14:16:45Z"
+    "pushed_at": "2026-11-20T13:52:18Z"
   },
   {
     "name": "uniswap-v2",
