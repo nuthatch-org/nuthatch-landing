@@ -109,7 +109,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 1,
-    "pushed_at": "2026-11-21T12:03:24Z"
+    "pushed_at": "2026-11-22T12:45:43Z"
   },
   {
     "name": "burrmill-wasm",
@@ -221,7 +221,7 @@
     "description": "   Open protocol for training shared AI models on data where it lives: federated learning coordinated by smart contracts on Ethereum. Bring AI to the data, not the data to AI.",
     "language": null,
     "stargazers_count": 0,
-    "pushed_at": "2026-11-20T18:40:40Z"
+    "pushed_at": "2026-11-22T07:22:56Z"
   },
   {
     "name": "din-nest",
@@ -621,7 +621,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 8,
-    "pushed_at": "2026-11-21T09:49:27Z"
+    "pushed_at": "2026-11-22T13:01:09Z"
   },
   {
     "name": "nuthatch-desk",
@@ -645,7 +645,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-21T11:31:09Z"
+    "pushed_at": "2026-11-22T13:04:59Z"
   },
   {
     "name": "nuthatch-landing",
@@ -653,7 +653,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-20T14:00:59Z"
+    "pushed_at": "2026-11-21T13:28:17Z"
   },
   {
     "name": "nuthatch-x402",
@@ -941,7 +941,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-21T13:27:56Z"
+    "pushed_at": "2026-11-22T13:15:24Z"
   },
   {
     "name": "uniswap-v2",
