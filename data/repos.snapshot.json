@@ -109,7 +109,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 1,
-    "pushed_at": "2026-11-23T15:00:19Z"
+    "pushed_at": "2026-11-24T15:34:24Z"
   },
   {
     "name": "burrmill-wasm",
@@ -221,7 +221,7 @@
     "description": "   Open protocol for training shared AI models on data where it lives: federated learning coordinated by smart contracts on Ethereum. Bring AI to the data, not the data to AI.",
     "language": null,
     "stargazers_count": 0,
-    "pushed_at": "2026-11-22T07:22:56Z"
+    "pushed_at": "2026-11-24T07:28:22Z"
   },
   {
     "name": "din-nest",
@@ -245,7 +245,7 @@
     "description": "Dispatch is a decentralised JSON-RPC service built on The Graph Protocol’s Horizon framework",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-10-13T09:08:39Z"
+    "pushed_at": "2026-11-24T15:33:42Z"
   },
   {
     "name": "doudouchain-v2-nest",
@@ -549,7 +549,7 @@
     "description": "Lodestar's Rust backend: one process that owns every server-side route and fronts the nuthatch nests with a global admission gate, request coalescing and a derived freshness model.",
     "language": "Rust",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-14T18:32:40Z"
+    "pushed_at": "2026-11-24T15:40:39Z"
   },
   {
     "name": "lido",
@@ -621,7 +621,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 8,
-    "pushed_at": "2026-11-23T15:46:46Z"
+    "pushed_at": "2026-11-24T15:36:41Z"
   },
   {
     "name": "nuthatch-desk",
@@ -653,7 +653,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-22T13:21:10Z"
+    "pushed_at": "2026-11-23T15:58:29Z"
   },
   {
     "name": "nuthatch-x402",
@@ -941,7 +941,7 @@
     "description": "Live status of The Legacy's archive-RPC Shadow run",
     "language": "HTML",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-23T15:56:53Z"
+    "pushed_at": "2026-11-23T17:49:51Z"
   },
   {
     "name": "uniswap-v2",
