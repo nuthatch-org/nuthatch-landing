@@ -109,7 +109,7 @@
     "description": "SQL over sealed Parquet segments with exact integer arithmetic and refuse-on-overflow. Faster than DuckDB on the queries an indexer actually runs.",
     "language": "Rust",
     "stargazers_count": 1,
-    "pushed_at": "2026-11-25T15:31:43Z"
+    "pushed_at": "2026-11-26T10:59:03Z"
   },
   {
     "name": "burrmill-wasm",
@@ -621,7 +621,7 @@
     "description": "Be your own indexer. One Rust binary, one command, live indexed API in under two minutes. No mandatory third-party data dependency.",
     "language": "Rust",
     "stargazers_count": 8,
-    "pushed_at": "2026-11-25T07:47:52Z"
+    "pushed_at": "2026-11-26T15:16:04Z"
   },
   {
     "name": "nuthatch-desk",
@@ -645,7 +645,7 @@
     "description": "Website for Nuthatch, the self-hosted, AI-native blockchain indexer. Astro, static, zero third-party resources.",
     "language": "Astro",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-25T01:32:06Z"
+    "pushed_at": "2026-11-26T10:58:51Z"
   },
   {
     "name": "nuthatch-landing",
@@ -653,7 +653,7 @@
     "description": "Landing page for The Night's Watch, an open community for the people who build and hold the data layer of web3.",
     "language": "CSS",
     "stargazers_count": 0,
-    "pushed_at": "2026-11-24T15:53:14Z"
+    "pushed_at": "2026-11-25T15:36:09Z"
   },
   {
     "name": "nuthatch-x402",
