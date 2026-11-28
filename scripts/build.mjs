@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ORG = process.env.ORG || 'nuthatch-org';
-const DISCORD = process.env.DISCORD_INVITE || 'https://discord.gg/CQewvyJ69Y';
+const DISCORD = process.env.DISCORD_INVITE || 'https://discord.gg/p9Xc45txWa';
 // Canonical origin, no trailing slash. Override with SITE_URL when a custom domain lands.
 const SITE_URL = (process.env.SITE_URL || 'https://nuthatch-landing.vercel.app').replace(/\/+$/, '');
 

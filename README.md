@@ -15,7 +15,7 @@
 Landing page for **Nuthatch** — an open community for the people who build and
 hold the data layer of web3.
 
-Join us: <https://discord.gg/CQewvyJ69Y>
+Join us: <https://discord.gg/p9Xc45txWa>
 
 
 ## Design
